@@ -1,0 +1,9 @@
+[{
+    "name" : "Explainer",
+    "module" : "spa/explainer"
+},
+{
+    "name" : "Dashboard",
+    "module" : "spa/dashboard",
+    "selected" : true
+}]
