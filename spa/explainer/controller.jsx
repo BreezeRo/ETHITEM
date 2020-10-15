@@ -6,6 +6,6 @@ var ExplainerController = function (view) {
         if(!ref) {
             return;
         }
-        var element = $('<div/>').load('../../index.html', () => ref.innerHTML = element.children().find('.Explainer').html());
+        var element = $('<div/>').load('../../index.html', () => ref.innerHTML = element.children('.Intro').html());
     };
 };

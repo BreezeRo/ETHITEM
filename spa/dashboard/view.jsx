@@ -1,6 +1,7 @@
 var Dashboard = React.createClass({
     render() {
-        return(<section>
+        return(
+        <section>
             Dashboard
         </section>);
     }
