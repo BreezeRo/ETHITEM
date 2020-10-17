@@ -1,6 +1,6 @@
 # ethItem
 
-<img scr="https://raw.githubusercontent.com/b-u-i-d-l/ethItem/master/assets/img/awesome.gif?token=AE365S2PPJKEAIJ53ELYXB27RMF2Q">
+<img scr="https://raw.githubusercontent.com/b-u-i-d-l/ethItem/master/assets/img/awesome.gif">
 
 ### Repo in progress | Full release oct 28
 
@@ -10,13 +10,13 @@
 
 ETHITEM is a platform for building Items, a new class of objects on top of Ethereum. Fusing ERC20s, ERC721s and ERC1155s into a single super-standard, Items unleash the true power of art, games, dApps and DeFi.
 
-<img src="https://raw.githubusercontent.com/b-u-i-d-l/ethItem/master/assets/img/1_ckALGI-SzWI7BGmQzhmvUg.jpg?token=AE365S7JYF7N3LJY7SNN5C27RMGEE">
+<img src="https://raw.githubusercontent.com/b-u-i-d-l/ethItem/master/assets/img/1_ckALGI-SzWI7BGmQzhmvUg.jpg">
 
 ## Use ITEMs EVERYWHERE
 
 ETHITEMS are portable across and interoperable with the entire Ethereum universe. Imagine buying potions for the next Raid in your favorite ETH-based game, or earning DAI by borrowing other in-game Items, or farming Cryptovoxel items, or...
 
-<img src="https://raw.githubusercontent.com/b-u-i-d-l/ethItem/master/assets/img/1_c_Awlx7NIZ_GnJI2Y5KBZg.jpg?token=AE365S6XGPCQSGPKFIQBKPC7RMGHI">
+<img src="https://raw.githubusercontent.com/b-u-i-d-l/ethItem/master/assets/img/1_c_Awlx7NIZ_GnJI2Y5KBZg.jpg">
 
 ## CREATE
 
