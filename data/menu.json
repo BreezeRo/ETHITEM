@@ -3,7 +3,7 @@
     "module" : "spa/explainer"
 },
 {
-    "name" : "Dashboard",
-    "module" : "spa/dashboard",
+    "name" : "Explore",
+    "module" : "spa/explore",
     "selected" : true
 }]

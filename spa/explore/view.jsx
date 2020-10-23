@@ -1,8 +1,8 @@
-var Dashboard = React.createClass({
+var Explore = React.createClass({
     render() {
         return(
         <section>
-            Dashboard
+            
         </section>);
     }
 });
